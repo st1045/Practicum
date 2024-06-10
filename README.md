@@ -24,8 +24,11 @@ Start
     // Display the average temperature
     OUTPUT "The average temperature for the week is: ", average
 END
+![image](https://github.com/st1045/Practicum/assets/162302032/eb7c78be-c8c1-4ac8-9c5d-c276cbe29142)
+
+
 ![image](https://github.com/st1045/Practicum/assets/162302032/14e5e566-f5be-46be-8775-59368edbe78a)
-![image](https://github.com/st1045/Practicum/assets/162302032/f5d8fbe8-2559-4bcb-a50c-eae397aee81d) 
+![image](https://github.com/st1045/Practicum/assets/162302032/c1f3c076-a777-4bae-9268-8a1e9d14c00e)
 ![image](https://github.com/st1045/Practicum/assets/162302032/50f10e1c-df1d-4c7e-8a21-421e0a35d6d8)
 
 
@@ -33,7 +36,5 @@ END
 
 
 
-![image](https://github.com/st1045/Practicum/assets/162302032/cd845483-11a7-4264-9113-60c8949abf6a)
 
-![image](https://github.com/st1045/Practicum/assets/162302032/0a278491-88e2-40d1-a327-078d12047dfc)
 
